@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="./gifs/dont.gif" />
+  <img src="gifs/dont.gif" />
 </p>
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 <p align="center">
-  <img src="./gifs/areYouACoder.gif" />
+  <img src="gifs/areYouACoder.gif" />
 </p>
 <br>
 
@@ -31,45 +31,45 @@ I am self-taught, still studying to become a Full-Stack developer
 
 <br>
 <p align="center">
-  <img src="./gifs/weAreNumberOne.gif" />
+  <img src="gifs/weAreNumberOne.gif" />
 </p>
 <br>
 
 I can code both in Python and Javascript
 <br>
-<img src="./images/js.png" />
-<img src="./images/python.png" />
+<img src="images/js.png" />
+<img src="images/python.png" />
 
 These are my most used Tools/Framework
 
-<img src="./images/npm.png" />
-<img src="./images/html.png" />
-<img src="./images/postman.png" />
-<img src="./images/css3.png" />
-<img src="./images/vs.png" />
-<img src="./images/react.png" />
-<img src="./images/mongo.png" />
-<img src="./images/node.png" />
-<img src="./images/express.png" />
+<img src="images/npm.png" />
+<img src="images/html.png" />
+<img src="images/postman.png" />
+<img src="images/css3.png" />
+<img src="images/vs.png" />
+<img src="images/react.png" />
+<img src="images/mongo.png" />
+<img src="images/node.png" />
+<img src="images/express.png" />
 <br>
 
 These are the tools/Framework that I am going to learn
 
-<img src="./images/firebase.png" />
-<img src="./images/graphql.png" />
-<img src="./images/jest.png" />
-<img src="./images/ts.png" />
+<img src="images/firebase.png" />
+<img src="images/graphql.png" />
+<img src="images/jest.png" />
+<img src="images/ts.png" />
 <br>
 
 These are the tools/Framework that I am **_never_** going to learn
 
 <p align="center">
-  <img src="./images/angular.png" />
+  <img src="images/angular.png" />
 </p>
 
 <br>
 <p align="center">
-  <img src="./gifs/lol.gif" />
+  <img src="gifs/lol.gif" />
 </p>
 <br>
 
@@ -77,13 +77,13 @@ These are the tools/Framework that I am **_never_** going to learn
 
 <br>
 <p align="center">
-  <img src="./gifs/lol2.gif" />
+  <img src="gifs/lol2.gif" />
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="./gifs/throw.gif" />
+  <img src="gifs/throw.gif" />
 </p>
 <br>
 
