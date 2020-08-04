@@ -8,13 +8,12 @@
 <img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
 <br>
 
-# **Are you a developer?**
+# **Are you, uh, a real developer?**
 
 <br>
 <img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="1000"/>
-<br>
 
-# **Well... technically nah.**
+# **Well, uh, technically... nah.**
 
 Although I love PCs and technology in general, My hart still beats for **_physics_**.
 
