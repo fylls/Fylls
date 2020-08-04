@@ -2,7 +2,7 @@
 
 # **Don't let your kids watch it!**
 
-### **spoiler:** profile does not contain nor vegan nor waifu nor christian materials
+### **spoiler:** profile does not contain angular nor vegan nor waifu nor christian materials
 
 <br>
 <img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
