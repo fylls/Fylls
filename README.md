@@ -15,7 +15,7 @@
 
 # **Well, uh, technically... nah.**
 
-Although I love PCs and technology in general, My hart still beats for **_physics_**.
+Although I love PCs and technology in general, My heart still beats for **_physics_**.
 
 _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 
