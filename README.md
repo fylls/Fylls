@@ -60,6 +60,9 @@ _(and yes, I've just done a chiasm)_
 **These are the tools/Framework that I am **_never_** going to learn**
 
 ![angular](https://user-images.githubusercontent.com/55017307/89278667-b622a500-d646-11ea-87fe-2d5ae5ca235b.png)
+<br>
+Personally, I don't hate Angular
+But given I'm a react developer, my religion requires me to detest it.
 
 <br>
 <img src="https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif" width="1000"/>
