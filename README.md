@@ -17,7 +17,7 @@
 
 Although I love PCs and technology in general, My hart still beats for **_physics_**.
 
-_( as a matter of facts I am studying **Engineering Physics** in Milan)_
+_( as a matter of facts I am studying **Physics Engineering** in Milan)_
 
 I am self-taught, still studying to become a Full-Stack developer
 
