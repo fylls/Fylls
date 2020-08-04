@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="gifs/dont.gif" />
+  <img src="gifs/dont.gif"  width="1000px"/>
 </p>
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 <p align="center">
-  <img src="gifs/areYouACoder.gif" />
+  <img src="gifs/areYouACoder.gif"  width="1000px"/>
 </p>
 <br>
 
@@ -32,7 +32,7 @@ I am self-taught, still studying to become a Full-Stack developer
 
 <br>
 <p align="center">
-  <img src="gifs/weAreNumberOne.gif" />
+  <img src="gifs/weAreNumberOne.gif" width="1000px" />
 </p>
 <br>
 
@@ -70,7 +70,7 @@ These are the tools/Framework that I am **_never_** going to learn
 
 <br>
 <p align="center">
-  <img src="gifs/lol.gif" />
+  <img src="gifs/lol.gif" width="1000px"/>
 </p>
 <br>
 
@@ -78,13 +78,13 @@ These are the tools/Framework that I am **_never_** going to learn
 
 <br>
 <p align="center">
-  <img src="gifs/lol2.gif" />
+  <img src="gifs/lol2.gif" width="1000px" />
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="gifs/throw.gif" />
+  <img src="gifs/throw.gif"  width="1000px"/>
 </p>
 <br>
 
