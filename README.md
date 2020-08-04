@@ -5,16 +5,16 @@
 ### **spoiler:** profile does not contain nor vegan nor waifu nor christian materials
 
 <br>
-![dont](https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
 <br>
 
 # **Are you a developer?**
 
 <br>
-![areYouACoder](https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="1000"/>
 <br>
 
-## **Well... technically nah.**
+# **Well... technically nah.**
 
 Although I love PCs and technology in general, My hart still beats for **_physics_**.
 
@@ -27,7 +27,7 @@ I am self-taught, still studying to become a Full-Stack developer
 # **What technologies do you use?**
 
 <br>
-![weAreNumberOne](https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
 <br>
 
 **I can code both in Python and Javascript**
@@ -38,9 +38,6 @@ _(and yes, I've just done a chiasm)_
 ![python](https://user-images.githubusercontent.com/55017307/89278693-bc188600-d646-11ea-9f98-bb4b27c0a7b4.png)
 
 **These are my most used Tools/Framework**
-
-
-
 
 ![npm](https://user-images.githubusercontent.com/55017307/89278691-bb7fef80-d646-11ea-9a1f-946e4bf0f891.png)
 ![html](https://user-images.githubusercontent.com/55017307/89278683-b91d9580-d646-11ea-9370-efbd6e0bc954.png)
@@ -55,7 +52,6 @@ _(and yes, I've just done a chiasm)_
 
 **These are the tools/Framework that I am going to learn**
 
-
 ![firebase](https://user-images.githubusercontent.com/55017307/89278677-b7ec6880-d646-11ea-9f0f-317a7d9cf26a.png)
 ![graphql](https://user-images.githubusercontent.com/55017307/89278681-b884ff00-d646-11ea-8b71-02b12c30a57b.png)
 ![jest](https://user-images.githubusercontent.com/55017307/89278684-b91d9580-d646-11ea-8686-734cd56a3087.png)
@@ -67,17 +63,17 @@ _(and yes, I've just done a chiasm)_
 ![angular](https://user-images.githubusercontent.com/55017307/89278667-b622a500-d646-11ea-87fe-2d5ae5ca235b.png)
 
 <br>
-![lol](https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif" width="1000"/>
 <br>
 
 # **Hey buddy have a nice day!!**
 
 <br>
-![lol2](https://user-images.githubusercontent.com/55017307/89279149-537dd900-d647-11ea-9503-433735bedbaf.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279149-537dd900-d647-11ea-9503-433735bedbaf.gif" width="1000"/>
 <br>
 
 <br>
-![throw](https://user-images.githubusercontent.com/55017307/89279153-54af0600-d647-11ea-9157-441f14643426.gif)
+<img src="https://user-images.githubusercontent.com/55017307/89279153-54af0600-d647-11ea-9157-441f14643426.gif" width="1000"/>
 <br>
 
 <div>
