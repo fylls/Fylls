@@ -5,17 +5,13 @@
 ### **spoiler:** profile does not contain nor vegan nor waifu nor christian materials
 
 <br>
-<p align="center">
   <img src="gifs/dont.gif"  width="1000px"/>
-</p>
 <br>
 
 # **Are you a developer?**
 
 <br>
-<p align="center">
   <img src="gifs/areYouACoder.gif"  width="1000px"/>
-</p>
 <br>
 
 ## **Well... technically nah.**
@@ -31,17 +27,17 @@ I am self-taught, still studying to become a Full-Stack developer
 # **What technologies do you use?**
 
 <br>
-<p align="center">
   <img src="gifs/weAreNumberOne.gif" width="1000px" />
-</p>
 <br>
 
-I can code both in Python and Javascript
+**I can code both in Python and Javascript**
+<br>
+_(and yes, I've just done a chiasm)_
 <br>
 <img src="images/js.png" />
 <img src="images/python.png" />
 
-These are my most used Tools/Framework
+**These are my most used Tools/Framework**
 
 <img src="images/npm.png" />
 <img src="images/html.png" />
@@ -54,7 +50,7 @@ These are my most used Tools/Framework
 <img src="images/express.png" />
 <br>
 
-These are the tools/Framework that I am going to learn
+**These are the tools/Framework that I am going to learn**
 
 <img src="images/firebase.png" />
 <img src="images/graphql.png" />
@@ -62,30 +58,22 @@ These are the tools/Framework that I am going to learn
 <img src="images/ts.png" />
 <br>
 
-These are the tools/Framework that I am **_never_** going to learn
+**These are the tools/Framework that I am **_never_** going to learn**
 
-<p align="center">
   <img src="images/angular.png" />
-</p>
 
 <br>
-<p align="center">
   <img src="gifs/lol.gif" width="1000px"/>
-</p>
 <br>
 
-## **Hey weirdo have a nice day!!**
+# **Hey buddy have a nice day!!**
 
 <br>
-<p align="center">
   <img src="gifs/lol2.gif" width="1000px" />
-</p>
 <br>
 
 <br>
-<p align="center">
   <img src="gifs/throw.gif"  width="1000px"/>
-</p>
 <br>
 
 <div>
