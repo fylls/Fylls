@@ -64,6 +64,8 @@ _(and yes, I've just done a chiasm)_
 ![ts](https://user-images.githubusercontent.com/55017307/89278698-bd49b300-d646-11ea-8ebd-5b2368c6e9c2.png)
 <br>
 
+<!---
+
 **These are the Services that I use**
 
 ![github](https://user-images.githubusercontent.com/55017307/89497289-5221ed00-d7bc-11ea-844f-7d040a817c92.png)
@@ -72,6 +74,8 @@ _(and yes, I've just done a chiasm)_
 ![stripe](https://user-images.githubusercontent.com/55017307/89497264-47ffee80-d7bc-11ea-9a90-b9ff581c479a.png)
 ![compass](https://user-images.githubusercontent.com/55017307/89497298-56e6a100-d7bc-11ea-9396-51cfad362b5b.png)
 <br>
+
+-->
 
 **These are the tools/Framework that I am **_never_** going to learn or use**
 
