@@ -41,12 +41,12 @@ _(and yes, I've just done a chiasm)_
 ![npm](https://user-images.githubusercontent.com/55017307/89278691-bb7fef80-d646-11ea-9a1f-946e4bf0f891.png)
 ![html](https://user-images.githubusercontent.com/55017307/89278683-b91d9580-d646-11ea-9370-efbd6e0bc954.png)
 ![postman](https://user-images.githubusercontent.com/55017307/89278692-bb7fef80-d646-11ea-8dfb-779ee6b8ca73.png)
-![mongoose](https://user-images.githubusercontent.com/55017307/89497788-569ad580-d7bd-11ea-8ddb-8b2c329bfc6b.png)
 ![css3](https://user-images.githubusercontent.com/55017307/89278671-b6bb3b80-d646-11ea-9ff4-1e0fd5944078.png)
 ![react](https://user-images.githubusercontent.com/55017307/89278696-bcb11c80-d646-11ea-85b5-69f4e9b89e10.png)
 ![mongo](https://user-images.githubusercontent.com/55017307/89278687-ba4ec280-d646-11ea-87e5-96e181a5f5c4.png)
 ![node](https://user-images.githubusercontent.com/55017307/89278689-bae75900-d646-11ea-8065-89899bf5835c.png)
 ![express](https://user-images.githubusercontent.com/55017307/89278673-b753d200-d646-11ea-9331-7a50198a433c.png)
+<!---![mongoose](https://user-images.githubusercontent.com/55017307/89497788-569ad580-d7bd-11ea-8ddb-8b2c329bfc6b.png)--->
 <!---![formik](https://user-images.githubusercontent.com/55017307/89497785-5569a880-d7bd-11ea-927c-a80939669c4f.png) --->
 <!---![liveshare](https://user-images.githubusercontent.com/55017307/89497271-4afadf00-d7bc-11ea-9d0e-30ac142a6d98.png)--->
 <!---![material](https://user-images.githubusercontent.com/55017307/89497274-4cc4a280-d7bc-11ea-8903-f1fa718f81ee.png)--->
