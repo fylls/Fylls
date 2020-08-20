@@ -21,7 +21,7 @@ I am self-taught, still studying to become a Full-Stack developer
 
 <img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
 
-**I can code both in Python and Javascript**
+## **I can code both in Python and Javascript**
 
 _(and yes, I've just done a chiasm)_
 
@@ -30,7 +30,7 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
-**I mainly code using these bad boys**
+## **I mainly code using these bad boys**
 
 ![npm](https://user-images.githubusercontent.com/55017307/89278691-bb7fef80-d646-11ea-9a1f-946e4bf0f891.png)
 ![html](https://user-images.githubusercontent.com/55017307/89278683-b91d9580-d646-11ea-9370-efbd6e0bc954.png)
@@ -42,7 +42,7 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
-**I also use these Tools / Services / Programs / Libraries / Extensions**
+## **I also use these Tools / Services / Programs / Libraries / Extensions**
 
 ![postman](https://user-images.githubusercontent.com/55017307/89278692-bb7fef80-d646-11ea-8dfb-779ee6b8ca73.png)
 ![mongoose](https://user-images.githubusercontent.com/55017307/89497788-569ad580-d7bd-11ea-8ddb-8b2c329bfc6b.png)
