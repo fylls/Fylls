@@ -28,7 +28,6 @@ _(and yes, I've just done a chiasm)_
 ![js](https://user-images.githubusercontent.com/55017307/89278685-b9b62c00-d646-11ea-973c-e701483a05d6.png)
 ![python](https://user-images.githubusercontent.com/55017307/89278693-bc188600-d646-11ea-9f98-bb4b27c0a7b4.png)
 
-<br>
 
 ## **I mainly code using these bad boys**
 
@@ -61,7 +60,7 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
-**These is what I am going to learn**
+ ## **These is what I am going to learn**
 
 ![firebase](https://user-images.githubusercontent.com/55017307/89278677-b7ec6880-d646-11ea-9f0f-317a7d9cf26a.png)
 ![graphql](https://user-images.githubusercontent.com/55017307/89278681-b884ff00-d646-11ea-8b71-02b12c30a57b.png)
@@ -70,12 +69,15 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
-**These are the tools/Framework that I am **_never_** going to learn or use**
+## **These are the tools/Framework that I am **_never_** going to learn or use**
 
 ![angular](https://user-images.githubusercontent.com/55017307/89278667-b622a500-d646-11ea-87fe-2d5ae5ca235b.png)
+
 <br>
-Personally, I don't hate Angular
-But given I'm a react developer, my religion requires me to detest it.
+
+_Personally, I don't hate Angular_
+
+_But given I'm a react developer, my religion requires me to detest it._
 
 <br>
 
