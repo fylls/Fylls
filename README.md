@@ -7,8 +7,6 @@
 <img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
 
 # **Are you, uh, a real developer?**
-
-<br>
 <img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="1000"/>
 
 ### **Well, uh, technically... nah.**
