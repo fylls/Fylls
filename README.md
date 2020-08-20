@@ -18,6 +18,7 @@ _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 I am self-taught, still studying to become a Full-Stack developer
 
 # **What technologies do you use?**
+
 <img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
 
 <br>
@@ -55,8 +56,6 @@ _(and yes, I've just done a chiasm)_
 ![passport](https://user-images.githubusercontent.com/55017307/89497784-539fe500-d7bd-11ea-8a70-e9c9456f21d0.png)
 ![jwt](https://user-images.githubusercontent.com/55017307/89497787-56023f00-d7bd-11ea-8fe6-070d5ffcfc78.png)
 ![github](https://user-images.githubusercontent.com/55017307/89497289-5221ed00-d7bc-11ea-844f-7d040a817c92.png)
-
-
 
 **These is what I am going to learn**
 
