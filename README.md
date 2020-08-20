@@ -4,9 +4,7 @@
 
 ### **spoiler:** profile does not contain angular nor vegan nor waifu nor christian materials
 
-<br>
 <img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
-<br>
 
 # **Are you, uh, a real developer?**
 
@@ -21,13 +19,9 @@ _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 
 I am self-taught, still studying to become a Full-Stack developer
 
-<br>
-
 # **What technologies do you use?**
 
-<br>
 <img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
-<br>
 
 **I can code both in Python and Javascript**
 <br>
