@@ -18,13 +18,14 @@ _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 I am self-taught, still studying to become a Full-Stack developer
 
 # **What technologies do you use?**
-
 <img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
 
+<br>
+
 **I can code both in Python and Javascript**
-<br>
+
 _(and yes, I've just done a chiasm)_
-<br>
+
 ![js](https://user-images.githubusercontent.com/55017307/89278685-b9b62c00-d646-11ea-973c-e701483a05d6.png)
 ![python](https://user-images.githubusercontent.com/55017307/89278693-bc188600-d646-11ea-9f98-bb4b27c0a7b4.png)
 
