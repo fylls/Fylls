@@ -7,15 +7,20 @@
 <img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
 
 # **Are you, uh, a real developer?**
+
 <img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="1000"/>
 
-### **Well, uh, technically... nah.**
+<br>
+
+## **Well, uh, technically... nah.**
 
 Although I love PCs and technology in general, My heart still beats for **_physics_**.
 
 _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 
 I am self-taught, still studying to become a Full-Stack developer
+
+<br>
 
 # **What technologies do you use?**
 
@@ -70,7 +75,7 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
-## **These are the tools/Framework that I am **_never_** going to learn or use**
+## **This is what I'm **_never_** going to learn or use**
 
 ![angular](https://user-images.githubusercontent.com/55017307/89278667-b622a500-d646-11ea-87fe-2d5ae5ca235b.png)
 
