@@ -61,9 +61,9 @@ _(and yes, I've just done a chiasm)_
 ![nodemon](https://user-images.githubusercontent.com/55017307/90989510-9a058a00-e59a-11ea-960f-afc8d5820bf5.png)
 ![todotree](https://user-images.githubusercontent.com/55017307/89497251-433b3a80-d7bc-11ea-8f20-e8baae918835.png)
 ![compass](https://user-images.githubusercontent.com/55017307/89497298-56e6a100-d7bc-11ea-9396-51cfad362b5b.png)
+![prettier](https://user-images.githubusercontent.com/55017307/90989511-9a9e2080-e59a-11ea-8d84-22e6792f250a.png)
 ![passport](https://user-images.githubusercontent.com/55017307/89497784-539fe500-d7bd-11ea-8a70-e9c9456f21d0.png)
 ![jwt](https://user-images.githubusercontent.com/55017307/89497787-56023f00-d7bd-11ea-8fe6-070d5ffcfc78.png)
-![prettier](https://user-images.githubusercontent.com/55017307/90989511-9a9e2080-e59a-11ea-8d84-22e6792f250a.png)
 ![github](https://user-images.githubusercontent.com/55017307/89497289-5221ed00-d7bc-11ea-844f-7d040a817c92.png)
 
 <br>
