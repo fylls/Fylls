@@ -68,12 +68,16 @@ _(and yes, I've just done a chiasm)_
 
 <br>
 
- ## **These is what I am going to learn**
+ ## **Here is what I am going to learn in the future**
 
 ![firebase](https://user-images.githubusercontent.com/55017307/89278677-b7ec6880-d646-11ea-9f0f-317a7d9cf26a.png)
+![rsz_images](https://user-images.githubusercontent.com/55017307/90989871-100af080-e59d-11ea-9a92-fef32c7e7e22.png)
 ![graphql](https://user-images.githubusercontent.com/55017307/89278681-b884ff00-d646-11ea-8b71-02b12c30a57b.png)
 ![jest](https://user-images.githubusercontent.com/55017307/89278684-b91d9580-d646-11ea-8686-734cd56a3087.png)
+![redux](https://user-images.githubusercontent.com/55017307/90989870-0f725a00-e59d-11ea-8d36-9d6c5c019e7b.png)
 ![ts](https://user-images.githubusercontent.com/55017307/89278698-bd49b300-d646-11ea-8ebd-5b2368c6e9c2.png)
+![etherium](https://user-images.githubusercontent.com/55017307/90989869-0f725a00-e59d-11ea-8a5e-48b3fe9b7f60.png)
+![solidity](https://user-images.githubusercontent.com/55017307/90989868-0ed9c380-e59d-11ea-9257-8ea808173d3d.png)
 
 <br>
 
