@@ -76,6 +76,8 @@ _(and yes, I've just done a chiasm)_
 ![jest](https://user-images.githubusercontent.com/55017307/89278684-b91d9580-d646-11ea-8686-734cd56a3087.png)
 ![redux](https://user-images.githubusercontent.com/55017307/90989870-0f725a00-e59d-11ea-8d36-9d6c5c019e7b.png)
 ![ts](https://user-images.githubusercontent.com/55017307/89278698-bd49b300-d646-11ea-8ebd-5b2368c6e9c2.png)
+![icons8-c++-48](https://user-images.githubusercontent.com/55017307/91060522-5d35a380-e62b-11ea-8520-e1e26f6e820a.png)
+![icons8-c-programming-48](https://user-images.githubusercontent.com/55017307/91060525-5e66d080-e62b-11ea-8ce1-8d2e6b40c3a9.png)
 ![etherium](https://user-images.githubusercontent.com/55017307/90989869-0f725a00-e59d-11ea-8a5e-48b3fe9b7f60.png)
 ![solidity](https://user-images.githubusercontent.com/55017307/90989868-0ed9c380-e59d-11ea-9257-8ea808173d3d.png)
 
@@ -98,9 +100,6 @@ _But given I'm a react developer, my religion requires me to detest it._
 <br>
 
 # **Hey buddy have a nice day!!**
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/55017307/89279149-537dd900-d647-11ea-9503-433735bedbaf.gif" width="1000"/>
 
 <br>
