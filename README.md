@@ -4,11 +4,11 @@
 
 ### **spoiler:** profile does not contain angular nor vegan nor waifu nor christian materials
 
-<img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279114-49f47100-d647-11ea-9b40-63a329ae6b56.gif" width="800"/>
 
 # **Are you, uh, a real developer?**
 
-<img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279086-42cd6300-d647-11ea-9f14-98300dd596b5.gif" width="800"/>
 
 <br>
 
@@ -26,7 +26,7 @@ I am self-taught, still studying to become a Full-Stack developer
 
 # **What technologies do you use?**
 
-<img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="800"/>
 
 <br>
 <br>
@@ -96,17 +96,18 @@ _Personally, I don't hate Angular_
 
 _But given I'm a react developer, my religion requires me to detest it._
 
+<br>
 
-<img src="https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif" width="800"/>
 
 <br>
 
 # **Hey buddy have a nice day!!**
-<img src="https://user-images.githubusercontent.com/55017307/89279149-537dd900-d647-11ea-9503-433735bedbaf.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279149-537dd900-d647-11ea-9503-433735bedbaf.gif" width="800"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/55017307/89279153-54af0600-d647-11ea-9157-441f14643426.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/55017307/89279153-54af0600-d647-11ea-9157-441f14643426.gif" width="800"/>
 
 <br>
 
