@@ -28,6 +28,9 @@ I am self-taught, still studying to become a Full-Stack developer
 
 <img src="https://user-images.githubusercontent.com/55017307/89279161-57a9f680-d647-11ea-92e9-b198fcbbf9e6.gif" width="1000"/>
 
+<br>
+<br>
+
 ## **I can code both in Python and Javascript**
 
 _(and yes, I've just done a chiasm)_
@@ -89,13 +92,10 @@ _(and yes, I've just done a chiasm)_
 
 ![angular](https://user-images.githubusercontent.com/55017307/89278667-b622a500-d646-11ea-87fe-2d5ae5ca235b.png)
 
-<br>
-
 _Personally, I don't hate Angular_
 
 _But given I'm a react developer, my religion requires me to detest it._
 
-<br>
 
 <img src="https://user-images.githubusercontent.com/55017307/89279118-4bbe3480-d647-11ea-9374-6d1a46545b49.gif" width="1000"/>
 
