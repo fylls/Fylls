@@ -33,10 +33,9 @@ I am self-taught, still studying to become a Full-Stack developer
 
 ## **I can code both in Python and Javascript**
 
-_(and yes, I've just done a chiasm)_
-
 ![js](https://user-images.githubusercontent.com/55017307/89278685-b9b62c00-d646-11ea-973c-e701483a05d6.png)
 ![python](https://user-images.githubusercontent.com/55017307/89278693-bc188600-d646-11ea-9f98-bb4b27c0a7b4.png)
+![icons8-c-programming-48](https://user-images.githubusercontent.com/55017307/91060525-5e66d080-e62b-11ea-8ce1-8d2e6b40c3a9.png)
 
 <br>
 
@@ -82,9 +81,12 @@ _(and yes, I've just done a chiasm)_
 ![redux](https://user-images.githubusercontent.com/55017307/90989870-0f725a00-e59d-11ea-8d36-9d6c5c019e7b.png)
 ![ts](https://user-images.githubusercontent.com/55017307/89278698-bd49b300-d646-11ea-8ebd-5b2368c6e9c2.png)
 ![icons8-c++-48](https://user-images.githubusercontent.com/55017307/91060522-5d35a380-e62b-11ea-8520-e1e26f6e820a.png)
-![icons8-c-programming-48](https://user-images.githubusercontent.com/55017307/91060525-5e66d080-e62b-11ea-8ce1-8d2e6b40c3a9.png)
 ![etherium](https://user-images.githubusercontent.com/55017307/90989869-0f725a00-e59d-11ea-8a5e-48b3fe9b7f60.png)
 ![solidity](https://user-images.githubusercontent.com/55017307/90989868-0ed9c380-e59d-11ea-9257-8ea808173d3d.png)
+![mysql](https://user-images.githubusercontent.com/55017307/98973933-a30c5480-2514-11eb-89f1-ba76fe284c00.jpg)
+![r](https://user-images.githubusercontent.com/55017307/98973940-a43d8180-2514-11eb-8f7f-0b1ae08a0624.png)
+![mathlab](https://user-images.githubusercontent.com/55017307/98973944-a43d8180-2514-11eb-9fb8-54931db11192.jpg)
+
 
 <br>
 
