@@ -20,7 +20,7 @@ Although I love PCs and technology in general, My heart still beats for **_physi
 
 _( as a matter of facts I am studying **Physics Engineering** in Milan)_
 
-I am self-taught, still studying to become a Full-Stack developer
+self-taught, studying to become a Full-Stack developer
 
 <br>
 
